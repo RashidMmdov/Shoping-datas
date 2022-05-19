@@ -1,0 +1,39 @@
+.imgs{
+    img{
+        width: 100%;
+    }
+}
+.abouts{
+    .title{
+        h5{
+            color:darkgray;
+        }
+    }
+   .detals{
+        .stars{
+            color: darkgray;
+            span{
+                margin-left: 20px;
+            }
+        }
+        h2{
+            color: orange;
+        }
+        ul{
+            padding: 0;
+            li{
+                color: darkgray;
+                list-style: none;
+                
+            }
+        }
+       
+   }
+}
+header{
+    .nav{
+        background-color: gray;
+            
+       
+    }
+}

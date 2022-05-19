@@ -1,0 +1,33 @@
+.imgs img {
+  width: 100%;
+}
+
+.abouts .title h5 {
+  color: darkgray;
+}
+
+.abouts .detals .stars {
+  color: darkgray;
+}
+
+.abouts .detals .stars span {
+  margin-left: 20px;
+}
+
+.abouts .detals h2 {
+  color: orange;
+}
+
+.abouts .detals ul {
+  padding: 0;
+}
+
+.abouts .detals ul li {
+  color: darkgray;
+  list-style: none;
+}
+
+header .nav {
+  background-color: gray;
+}
+/*# sourceMappingURL=main.css.map */
